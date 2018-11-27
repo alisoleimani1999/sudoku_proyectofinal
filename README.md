@@ -9,3 +9,4 @@ Instrucciones:
 6. Si el sudoku finaliza correctamente, saldra un mensaje de "Ganaste".
 7. El lenguaje que fue utuilizado para el proyecto es c++ 17. 
 8. La interfaz utlizado es CLion.
+v1
